@@ -1,0 +1,14 @@
+#ifndef WEATHER_DATA_H
+#define WEATHER_DATA_H
+
+class Today{
+    
+    
+};
+
+class Day{
+    
+    
+};
+
+#endif // WEATHER_DATA_H
